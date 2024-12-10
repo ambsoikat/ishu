@@ -51,8 +51,9 @@ html {
   }
   
   .text-box p {
-    margin: 0;
-    text-align: left;
+    margin: -3px;
+    text-align: center;
+    font-size: 13px;
   }
   
   .text-box span {
