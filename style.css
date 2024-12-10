@@ -86,7 +86,18 @@ html {
   .five .idea-5 {
     font-size: 2rem;
   }
-  
+  .five .idea-1 {
+    font-size: 2rem;
+  }
+ .five .idea-2 {
+    font-size: 2rem;
+  }
+ .five .idea-3 {
+    font-size: 2rem;
+  }
+ .five .idea-4 {
+    font-size: 2rem;
+  }
   .idea-5 span, .idea-6 span, .wish-hbd span {
     display: inline-block;
   }
